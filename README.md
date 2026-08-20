@@ -146,7 +146,14 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td><a href="/labs/01_lab01/README.md">lab01</a></td>
     <td><a href="">Link</a></td>
     <td>27/08/2026</td>
-
+  </tr>
+    <tr>
+    <td>3-4</td>
+    <td> Decodificador BCD a 7 segmentos y algoritmo double dabble</td>
+    <td><a href="/labs/02_lab02/README.md">lab02</a></td>
+    <td><a href="">Link</a></td>
+    <td>27/08/2026</td>
+  </tr>  
 </table>
 
 
