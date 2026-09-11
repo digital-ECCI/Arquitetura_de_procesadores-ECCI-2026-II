@@ -153,6 +153,13 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td><a href="/labs/02_lab02/README.md">lab02</a></td>
     <td><a href="">Link</a></td>
     <td>27/08/2026</td>
+  </tr> 
+  <tr>
+    <td>6-7</td>
+    <td> ASM y multiplicador</td>
+    <td><a href="/labs/03_lab03/README.md">lab03</a></td>
+    <td><a href="">Link</a></td>
+    <td>20/09/2026</td>
   </tr>  
 </table>
 
