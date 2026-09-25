@@ -161,6 +161,13 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td><a href="">Link</a></td>
     <td>20/09/2026</td>
   </tr>  
+  <tr>
+    <td>8-9</td>
+    <td> ALU + Banco registro + UART</td>
+    <td><a href="/labs/04_lab04/README.md">lab04</a></td>
+    <td><a href="">Link</a></td>
+    <td>20/09/2026</td>
+  </tr>  
 </table>
 
 
