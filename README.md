@@ -167,6 +167,13 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td><a href="/labs/04_lab04/README.md">lab04</a></td>
     <td><a href="">Link</a></td>
     <td>11/10/2026</td>
+  </tr>
+  <tr>
+    <td>12-14</td>
+    <td> Set de instrucciones y unidad de control</td>
+    <td><a href="/labs/05_lab05/README.md">lab05</a></td>
+    <td><a href="">Link</a></td>
+    <td>11/10/2026</td>
   </tr>  
 </table>
 
